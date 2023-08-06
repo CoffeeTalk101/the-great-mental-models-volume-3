@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">626ddd1b-3f5d-4f26-9ebb-2842802cbbf8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">626ddd1b-3f5d-4f26-9ebb-2842802cbbf8</dc:identifier>
+        <dc:title>The Great Mental Models Volume 3: Systems and Mathematics</dc:title>
+        <dc:creator opf:file-as="Beaubien, Rhiannon &amp; Leizrowice, Rosie" opf:role="aut">Rhiannon Beaubien</dc:creator>
+        <dc:creator opf:file-as="Beaubien, Rhiannon &amp; Leizrowice, Rosie" opf:role="aut">Rosie Leizrowice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-11T18:30:00+00:00</dc:date>
+        <dc:publisher>Latticework Publishing Inc.</dc:publisher>
+        <dc:rights>Copyright © Farnam Street Media Inc. All rights reserved.</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

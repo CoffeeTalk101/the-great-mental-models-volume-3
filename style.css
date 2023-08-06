@@ -1,0 +1,573 @@
+.akkurat_regular {
+    font-weight: normal
+    }
+.big-quote {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    font-size: 1.66667em;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.big-quote-attribute {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1rem;
+    text-align: left;
+    text-indent: 0
+    }
+.body {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 2.8rem
+    }
+.body1 {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    font-weight: normal;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.2rem;
+    text-align: left;
+    text-indent: 0
+    }
+.calibre {
+    display: block;
+    font-family: "Akkurat", sans-serif;
+    font-size: 1em;
+    font-weight: 300;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    orphans: 2;
+    padding-left: 0;
+    padding-right: 0;
+    widows: 2
+    }
+.calibre1 {
+    text-decoration: none
+    }
+.calibre2 {
+    display: block;
+    line-height: 1.5em;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.calibre3 {
+    display: list-item;
+    line-height: 1.5em
+    }
+.calibre4 {
+    color: initial;
+    text-decoration: none
+    }
+.calibre5 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em
+    }
+.calibre6 {
+    display: block
+    }
+.calibre7 {
+    display: block;
+    margin-bottom: 1.2rem;
+    margin-left: 2.8rem;
+    margin-right: 0;
+    margin-top: 1.2rem
+    }
+.calibre8 {
+    display: block;
+    line-height: 1.5em;
+    list-style-type: decimal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.calibre9 {
+    display: block;
+    line-height: 1.5em;
+    list-style-type: disc;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.calibre10 {
+    font-weight: bold
+    }
+.chapter-heading {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.8rem;
+    margin-bottom: 1.2rem;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.chapter-heading1 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.8rem;
+    margin-bottom: 1.2rem;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.2rem
+    }
+.cover {
+    display: block;
+    height: 95%;
+    text-align: center
+    }
+.coverimage {
+    height: 95%;
+    width: auto
+    }
+.endnote-reference {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    bottom: 0.4em;
+    font-size: 0.75em;
+    padding-left: 0.2em;
+    position: relative;
+    text-decoration: none
+    }
+.fullpage {
+    display: block;
+    font-family: "Akkurat", sans-serif;
+    font-size: 1em;
+    font-weight: 300;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    orphans: 2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    widows: 2
+    }
+.headline-light {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 2rem;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.idea {
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-left-color: #000;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-right-color: #000;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-top-color: #000;
+    border-top-style: solid;
+    border-top-width: 2px;
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em
+    }
+.idea-title {
+    display: block;
+    font-size: 2em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1rem;
+    text-align: center
+    }
+.italic {
+    font-style: italic
+    }
+.noindent {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.noindent1 {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.2rem;
+    text-align: left;
+    text-indent: 0
+    }
+.noindent2 {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    font-weight: normal;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1rem;
+    text-align: left;
+    text-indent: 0
+    }
+.noindent3 {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    font-size: 1.29167em;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2rem;
+    text-align: left;
+    text-indent: 0
+    }
+.numbered {
+    display: list-item;
+    margin-top: 1.2rem
+    }
+.numbered1 {
+    display: list-item
+    }
+.partial_img {
+    height: auto;
+    text-align: center;
+    width: 100%
+    }
+.partial_img_ {
+    height: auto;
+    text-align: center;
+    width: 75%
+    }
+.partial_img_1 {
+    height: auto;
+    text-align: center;
+    width: 40%
+    }
+.partial_img_2 {
+    height: auto;
+    text-align: center;
+    width: 80%
+    }
+.partialimg {
+    display: block;
+    margin-bottom: 2rem;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2rem;
+    page-break-inside: avoid;
+    text-align: center;
+    width: 100%
+    }
+.pull_section {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: block;
+    margin-bottom: 1.2rem;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.2rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem
+    }
+.quote-center {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    font-size: 1.29167em;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5rem;
+    text-align: center;
+    text-indent: 0
+    }
+.quote-center-attribute {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    font-weight: normal;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 1.5rem;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2rem;
+    text-align: center;
+    text-indent: 0
+    }
+.sidebar-bio-title {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.sidebar-link {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    font-size: 0.83333em;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-align: left;
+    text-indent: 0
+    }
+.sidebar-quote {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    font-size: 1.29167em;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5rem;
+    text-align: left;
+    text-indent: 0
+    }
+.sidenote {
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-lines: 3;
+    display: block;
+    font-size: 0.83333em;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 3;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.8rem;
+    text-align: left;
+    text-indent: 0
+    }
+.sp {
+    display: list-item;
+    line-height: 1.5em;
+    margin-top: 1.2rem
+    }
+.subheading {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5rem
+    }
+.supporting-idea-title {
+    display: block;
+    font-size: 1em;
+    font-weight: 300;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    text-align: center
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Akkurat";
+    font-style: normal;
+    font-weight: normal;
+    src: url(fonts/00001.otf)
+    }
+@font-face {
+    font-family: "Akkurat";
+    font-style: italic;
+    font-weight: normal;
+    src: url(fonts/00002.otf)
+    }
+@font-face {
+    font-family: "Akkurat";
+    font-style: normal;
+    font-weight: 300;
+    src: url(fonts/00003.otf)
+    }
+@font-face {
+    font-family: "Akkurat";
+    font-style: italic;
+    font-weight: 300;
+    src: url(fonts/00004.otf)
+    }
+
